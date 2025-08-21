@@ -1,9 +1,25 @@
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.5.1
-xgboost==2.1.1
-plotly==5.24.1
+streamlit
+streamlit-lottie
+flask>=3.0.2
+gunicorn>=21.2.0
+pandas>=1.5.3
+numpy>=1.24.2
+scikit-learn>=1.2.0
+xgboost>=1.7.6
+matplotlib>=3.7.0
+seaborn>=0.12.2
+plotly>=5.18.0
+requests>=2.27.1
+python-dotenv>=0.20.0
+psycopg2-binary>=2.9.3
+pymysql>=1.0.2
+sqlalchemy>=1.4.37
+opencv-python>=4.1.2
+ipyleaflet>=0.14.0
+ipywidgets>=7.7.1
+sympy>=1.10.1
+template-render>=0.1.0
+
 
 
 
